@@ -1,0 +1,88 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    padding: 16px;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+    list-style: none;
+    padding-left: 10px;
+}
+li{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-color:  #dfdfdf;
+}
+
+a{
+    text-decoration-line: none;
+    color: rgb(158, 95, 58);
+    
+}
+
+#home{
+    color: aliceblue;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.main-section{
+    padding: 20px;
+}
+.image-container {
+    height: 500px;
+    background-image: url(https://images.unsplash.com/photo-1601046500837-dd62bb53e3a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1926&q=80);
+}
+.image-container2{
+    height: 500px;
+    background-image: url(https://images.unsplash.com/photo-1590123380027-cf899c406e37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+}
+.image-container3{
+    height: 500px;
+    background-image: url(https://images.unsplash.com/photo-1548786811-02936c076b68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80);
+}
+.image-container4{
+    height: 500px;
+    background-image: url(https://images.unsplash.com/photo-1612895197780-630ac7fa2b1f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80);
+}
+.image-container5{
+    height: 500px;
+    background-image: url(https://images.unsplash.com/photo-1605600165188-99892c44cabe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+}
+.image-container6{
+    height: 500px;
+    background-image: url(https://images.unsplash.com/photo-1605647269055-9fbaf78c267e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+}
+.title{
+    font-family: 'Prata', serif;
+    font-size: 64px; font-weight: 400;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.subtitle{
+    font-family: 'Prata', serif;
+    font-size: 24px; font-weight: 400;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+ #firma {
+    font-weight: 600;
+ }
+
+ #articles{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: aliceblue;
+    background: linear-gradient(to right, rgb(158, 95, 58) 0%, rgb(245, 198, 138) 100%);
+    border-radius: 10px 10px 10px 10px;
+}
